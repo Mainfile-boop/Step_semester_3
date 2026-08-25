@@ -1,0 +1,15 @@
+package Step_semester_3.src.main.java.assigment;
+
+
+public class PrintNumbers {
+
+    static void printNumbersUpToN(int n) {
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i);
+        }
+    }
+
+    public static void main(String[] args) {
+        printNumbersUpToN(5);
+    }
+}
