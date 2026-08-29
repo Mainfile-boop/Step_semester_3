@@ -1,4 +1,4 @@
-package Step_semester_3.src.main.java.classproblems;
+package Step_semester_3.src.main.java.s3_ControlFlow.class_problems;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Step_semester_3.src.main.java.assigment;
+package Step_semester_3.src.main.java.s3_ControlFlow.assigment_problems;
 
 public class DayName {
 
@@ -41,3 +41,4 @@ public class DayName {
         printDayName(3);
     }
 }
+

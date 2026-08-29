@@ -1,4 +1,4 @@
-package Step_semester_3.src.main.java.classproblems;
+package Step_semester_3.src.main.java.s3_ControlFlow.class_problems;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class PalindromeNumber {
         int number = sc.nextInt();
 
         int origNumber = number;
-        int reversedNumber = 0;
+        int reversedNumber = 0; 
 
         while (number != 0) {
             int digit = number % 10;
